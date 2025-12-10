@@ -23,7 +23,7 @@ Runs fully on the user’s device with no limits, no API keys, and no hosting re
 ## Installation
 -- Clone the Repository
 
-- git clone https://github.com/(httpsJack111I/ESocialhunter.git)
+- https://github.com/Jack111I/ESocialhunter.git
   
 - cd ESocialHunter
 - pip install -r requirements.txt
